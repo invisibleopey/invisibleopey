@@ -1,11 +1,45 @@
-- 👋 Hi, I’m Muritala Abdullahi Opeyemi @invisibleopey
-- 👀 I’m interested in FrontEnd Web Development
-- 🌱 I’m currently learning fullstack web development at TheOdinProject
-- 💞️ I’m looking to collaborate on react web applications
-- 📫 How to reach me 
-twitter: http://twitter.com/invisibleopey
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Opey's+GitHub+Profile!)](https://git.io/typing-svg)
 
-<!---
-invisibleopey/invisibleopey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi, I'm Opeyemi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>
+
+### A few details about me
+
+  <br>
+
+- 💻 I am a web developer, content creator and final-year medical student.
+- 🕸️ I am passionate about building fast, responsive, and accessible websites.
+- ⚽ I occationally play football and enjoy watching all forms of team sports.
+- 🤓 I love learning new technologies and I write about them on [Hashnode](https://hashnode.com/@InvisibleOpey). [Click here to access my blog](https://codingdr.tech)
+
+  <br>
+
+## 🔧 Technologies & Tools
+
+  <br>
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logo.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+  <br>
+
+## 📫 How to reach me?
+
+  <br>
+
+- [![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Finvisibleopey)](https://twitter.com/invisibleopey)
+- [LinkedIn](https://www.linkedin.com/in/abdullahimuritala/)
+- [Email](mailto:opey.muritala@gmial.com)
+
+  <br>
+
+## 📈 GitHub Stats
+
+  <br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=invisibleopey&show_icons=true&theme=radical" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisibleopey&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
