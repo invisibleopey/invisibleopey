@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Opey's+GitHub+Profile!)](https://git.io/typing-svg)
 
-# Hi, I'm Opeyemi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>
+<img width="1170" alt="Header" src="https://user-images.githubusercontent.com/19176671/192335657-d52dfe1e-9e40-466d-b5c4-f8452ec99d89.png">
 
 ### A few details about me
 
