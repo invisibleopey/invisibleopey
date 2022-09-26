@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Opey's+GitHub+Profile!)](https://git.io/typing-svg)
 
-![My GitHub Header](https://user-images.githubusercontent.com/19176671/192336265-9e9a5fa5-088f-481f-b4f2-08beea0b1953.png)
+![My GitHub Header](https://user-images.githubusercontent.com/19176671/192337023-4fe440d5-9afd-4f6b-bead-8b1f0896e15f.png)
 
 ### A few details about me
 
