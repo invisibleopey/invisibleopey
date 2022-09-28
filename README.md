@@ -9,7 +9,7 @@
 - 💻 I am a web developer, content creator and final-year medical student.
 - 🕸️ I am passionate about building fast, responsive, and accessible websites.
 - ⚽ I occationally play football and enjoy watching all forms of team sports.
-- 🤓 I love learning new technologies and I write about them on [Hashnode](https://hashnode.com/@InvisibleOpey). [Click here to access my blog](https://codingdr.tech)
+- 🤓 I love learning new technologies and I write about them on [Hashnode](https://hashnode.com/@InvisibleOpey). Read some of [my recent blog posts](https://codingdr.tech)
 
   <br>
 
@@ -30,7 +30,7 @@
 
   <br>
 
-- [![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Finvisibleopey)](https://twitter.com/invisibleopey)
+- [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Finvisibleopey)](https://twitter.com/invisibleopey)
 - [LinkedIn](https://www.linkedin.com/in/abdullahimuritala/)
 - [Email](mailto:opey.muritala@gmial.com)
 
@@ -40,6 +40,6 @@
 
   <br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=invisibleopey&show_icons=true&theme=radical" />
+<img alt="Abdullahi Muritala's GitHub Stats" max-width="80%" src="https://github-readme-stats.vercel.app/api?username=invisibleopey&show_icons=true&theme=radical" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisibleopey&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<img alt="Abdullahi Muritala's Top Languages" max-width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invisibleopey&hide=css,scss,astro,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
